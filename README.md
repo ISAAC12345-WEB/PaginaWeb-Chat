@@ -1,4 +1,4 @@
 # PaginaWeb-Chat 
 
 ## Introducción
-Esta pagina web esta echo con visual studio code, html, css y javascript. 
+Esta pagina web esta hecho con visual studio code, html, css y javascript.
